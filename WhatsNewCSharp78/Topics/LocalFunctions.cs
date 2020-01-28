@@ -7,7 +7,6 @@ namespace WhatsNewCSharp78.Topics
 {
 	public static class LocalFunctions
 	{
-		public static object Debgger { get; private set; }
 
 		public static void Run()
 		{

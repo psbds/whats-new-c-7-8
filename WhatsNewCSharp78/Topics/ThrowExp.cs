@@ -24,6 +24,7 @@ namespace WhatsNewCSharp78.Topics
 			Action var3 = () => throw new Exception();
 
 			Debugger.Break();
+
 		}
 	}
 }

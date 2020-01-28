@@ -15,6 +15,8 @@ namespace CSharp6._0.Topics
 			var var2 = "Hello" ?? throw new Exception();
 
 			Action act = () => throw new Exception();
+
+			int a = default;
 		}
 
 	}

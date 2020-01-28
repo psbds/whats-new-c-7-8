@@ -49,6 +49,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Topics\DefaultLiteralExpression.cs" />
+    <Compile Include="Topics\InterfaceImplementation.cs" />
     <Compile Include="Topics\ThrowExp.cs" />
   </ItemGroup>
   <ItemGroup>
